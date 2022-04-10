@@ -30,7 +30,7 @@ header{ background-color: #000; }
 
 
 .main{
-    background: url(./img/img1.png) no-repeat center;
+    background: url(../img/img1.png) no-repeat center;
     height: 400px;
     display: flex;
     align-items: center;
